@@ -1,0 +1,53 @@
+header{
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+.title{
+  color: gray;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrap{
+  margin: 0 auto;
+  width: 840px;
+}
+
+.main1{
+  padding-top: 50px;
+  border-bottom: solid gray 2px;
+  padding-bottom: 30px;
+}
+
+.main2{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: solid gray 2px;
+}
+
+.main3{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: solid gray 2px;
+}
+
+.main4{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: solid gray 2px;
+  margin-bottom: 70px;
+}
+
+.link{
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.description{
+  margin-bottom: 0px;
+}
